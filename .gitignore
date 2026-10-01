@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# JavaScript / TypeScript
+node_modules/
+
+# Java
+*.class
+
+# C / C++
+*.o
+*.out
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
