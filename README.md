@@ -23,4 +23,6 @@ Each file should include:
 
 | Problem | Difficulty | Language | Solution |
 | --- | --- | --- | --- |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Python | [Solution](./longest-substring-without-repeating-characters.py) |
+| [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python | [Solution](./reverse-words-in-a-string.py) |
 
