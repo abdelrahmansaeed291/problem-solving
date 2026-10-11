@@ -14,3 +14,16 @@ Examples in this repository:
 
 - Longest Substring Without Repeating Characters
 - Maximum Number of Vowels in a Substring of Given Length
+
+## Two Pointers
+
+Use two pointers when values can be compared from both ends of a sequence.
+
+- Move the pointer that cannot improve the current result.
+- Sort first when the algorithm depends on increasing value order.
+- Aim to process each position only once after any required sorting.
+
+Examples in this repository:
+
+- Container With Most Water
+- Max Number of K-Sum Pairs
