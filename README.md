@@ -2,6 +2,8 @@
 
 This repository contains my solutions to LeetCode problems.
 
+Current progress: **6 solved problems**. See [Study Notes](./STUDY_NOTES.md) for reusable problem-solving patterns.
+
 ## File naming
 
 Each solution is stored in its own file and named after the problem using lowercase kebab-case.
