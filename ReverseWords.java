@@ -1,0 +1,68 @@
+
+import java.util.Arrays;
+
+public class ReverseWords {
+
+    /*
+     * Problem: Reverse Words in a Character Array
+     *
+     * Given a char[] containing words separated by spaces,
+     * reverse the ORDER of the words in place.
+     *
+     * Requirements:
+     * - Modify the original array.
+     * - Do not create another array.
+     * - Use O(1) extra space.
+     * - Use O(n) time.
+     *
+     * Example:
+     * Input:  {'t','h','e',' ','s','k','y'}
+     * Output: {'s','k','y',' ','t','h','e'}
+     */
+
+    // Write your solution here
+    public static void reverseWords(char[] s) {
+        
+        // TODO: Implement your solution
+
+    }
+
+    // Test cases
+    public static void main(String[] args) {
+
+        char[][] inputs = {
+            "the sky is blue".toCharArray(),
+            "hello world".toCharArray(),
+            "a good example".toCharArray(),
+            "hello".toCharArray(),
+            "Java is fun".toCharArray()
+        };
+
+        String[] expected = {
+            "blue is sky the",
+            "world hello",
+            "example good a",
+            "hello",
+            "fun is Java"
+        };
+
+        for (int i = 0; i < inputs.length; i++) {
+
+            reverseWords(inputs[i]);
+
+            String actual = new String(inputs[i]);
+
+            System.out.println("Test " + (i + 1));
+
+            if (actual.equals(expected[i])) {
+                System.out.println("PASSED");
+            } else {
+                System.out.println("FAILED");
+                System.out.println("Expected: " + expected[i]);
+                System.out.println("Actual:   " + actual);
+            }
+
+            System.out.println("----------------");
+        }
+    }
+}
