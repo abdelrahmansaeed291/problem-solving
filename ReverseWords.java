@@ -52,6 +52,7 @@ public class ReverseWords {
             "fun is Java"
         };
 
+        // Run every case independently and print enough detail to diagnose a failure.
         for (int i = 0; i < inputs.length; i++) {
 
             reverseWords(inputs[i]);
@@ -60,6 +61,7 @@ public class ReverseWords {
 
             System.out.println("Test " + (i + 1));
 
+            // Compare the modified input with the expected word order.
             if (actual.equals(expected[i])) {
                 System.out.println("PASSED");
             } else {
