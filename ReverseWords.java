@@ -1,6 +1,8 @@
 
-import java.util.Arrays;
-
+/**
+ * Practice exercise for reversing the order of words in a character array.
+ * The solution and its test runner intentionally live in this single class.
+ */
 public class ReverseWords {
 
     /*
