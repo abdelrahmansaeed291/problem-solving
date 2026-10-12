@@ -34,6 +34,7 @@ public class ReverseWords {
     // Test cases
     public static void main(String[] args) {
 
+        // Each input is mutable because the exercise requires an in-place update.
         char[][] inputs = {
             "the sky is blue".toCharArray(),
             "hello world".toCharArray(),
@@ -42,6 +43,7 @@ public class ReverseWords {
             "Java is fun".toCharArray()
         };
 
+        // Expected strings use one space between words in reversed order.
         String[] expected = {
             "blue is sky the",
             "world hello",
