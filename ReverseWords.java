@@ -24,7 +24,9 @@ public class ReverseWords {
 
     // Write your solution here
     public static void reverseWords(char[] s) {
-        
+        // Suggested approach:
+        // 1. Reverse the complete character array.
+        // 2. Reverse each individual word to restore its character order.
         // TODO: Implement your solution
 
     }
