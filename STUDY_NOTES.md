@@ -31,3 +31,7 @@ Examples in this repository:
 ## Complexity Checklist
 
 Before submitting, record the time and space complexity and confirm that each loop does only the work the explanation claims.
+
+## Sets for Membership
+
+Use a set when the algorithm repeatedly asks whether a value is already present; membership checks are O(1) on average.
