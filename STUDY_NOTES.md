@@ -35,3 +35,7 @@ Before submitting, record the time and space complexity and confirm that each lo
 ## Sets for Membership
 
 Use a set when the algorithm repeatedly asks whether a value is already present; membership checks are O(1) on average.
+
+## Edge Cases
+
+Test empty inputs, one-element inputs, repeated values, and cases where the best answer occurs at the beginning or end.
