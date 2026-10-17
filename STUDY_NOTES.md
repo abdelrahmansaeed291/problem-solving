@@ -27,3 +27,7 @@ Examples in this repository:
 
 - Container With Most Water
 - Max Number of K-Sum Pairs
+
+## Complexity Checklist
+
+Before submitting, record the time and space complexity and confirm that each loop does only the work the explanation claims.
