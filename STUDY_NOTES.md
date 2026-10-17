@@ -39,3 +39,7 @@ Use a set when the algorithm repeatedly asks whether a value is already present;
 ## Edge Cases
 
 Test empty inputs, one-element inputs, repeated values, and cases where the best answer occurs at the beginning or end.
+
+## Clear Naming
+
+Prefer names such as `left`, `right`, `currentSum`, and `maxLength` so the purpose of each pointer and value stays clear.
