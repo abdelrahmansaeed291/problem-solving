@@ -59,3 +59,7 @@ Sorting costs O(n log n), but it can simplify pair searches and make a two-point
 ## Loop Invariants
 
 State what must remain true after every iteration; this makes pointer movement and correctness easier to reason about.
+
+## Manual Dry Runs
+
+Trace a small example on paper and record pointer positions, current state, and the best answer after each iteration.
