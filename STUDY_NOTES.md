@@ -55,3 +55,7 @@ Use a hash map when the solution needs to associate each value with a count, ind
 ## Sorting Tradeoff
 
 Sorting costs O(n log n), but it can simplify pair searches and make a two-pointer solution possible.
+
+## Loop Invariants
+
+State what must remain true after every iteration; this makes pointer movement and correctness easier to reason about.
