@@ -63,3 +63,7 @@ State what must remain true after every iteration; this makes pointer movement a
 ## Manual Dry Runs
 
 Trace a small example on paper and record pointer positions, current state, and the best answer after each iteration.
+
+## After Solving
+
+Review the accepted solution once more and write down the key observation that turned the brute-force approach into an efficient one.
