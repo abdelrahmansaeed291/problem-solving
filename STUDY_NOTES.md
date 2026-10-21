@@ -47,3 +47,7 @@ Prefer names such as `left`, `right`, `currentSum`, and `maxLength` so the purpo
 ## Before Submission
 
 Run every local test, recheck the method signature, and confirm that debugging output is removed before submitting to LeetCode.
+
+## Hash Maps
+
+Use a hash map when the solution needs to associate each value with a count, index, or other piece of information.
