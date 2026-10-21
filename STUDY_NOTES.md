@@ -51,3 +51,7 @@ Run every local test, recheck the method signature, and confirm that debugging o
 ## Hash Maps
 
 Use a hash map when the solution needs to associate each value with a count, index, or other piece of information.
+
+## Sorting Tradeoff
+
+Sorting costs O(n log n), but it can simplify pair searches and make a two-pointer solution possible.
