@@ -67,3 +67,7 @@ Trace a small example on paper and record pointer positions, current state, and 
 ## After Solving
 
 Review the accepted solution once more and write down the key observation that turned the brute-force approach into an efficient one.
+
+## Binary Search
+
+Use binary search when the search space is ordered and each comparison can eliminate half of the remaining candidates.
