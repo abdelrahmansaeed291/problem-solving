@@ -75,3 +75,7 @@ Use binary search when the search space is ordered and each comparison can elimi
 ## Prefix Sums
 
 Build a prefix-sum array when many queries need the sum of different ranges from the same input.
+
+## Stacks
+
+Use a stack when the most recently added value must be processed first, such as matching brackets or undoing operations.
