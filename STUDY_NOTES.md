@@ -79,3 +79,7 @@ Build a prefix-sum array when many queries need the sum of different ranges from
 ## Stacks
 
 Use a stack when the most recently added value must be processed first, such as matching brackets or undoing operations.
+
+## Queues
+
+Use a queue when values must be processed in arrival order, especially in breadth-first search and level-order traversal.
