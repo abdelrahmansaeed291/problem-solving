@@ -71,3 +71,7 @@ Review the accepted solution once more and write down the key observation that t
 ## Binary Search
 
 Use binary search when the search space is ordered and each comparison can eliminate half of the remaining candidates.
+
+## Prefix Sums
+
+Build a prefix-sum array when many queries need the sum of different ranges from the same input.
