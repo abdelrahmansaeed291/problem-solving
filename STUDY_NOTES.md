@@ -83,3 +83,7 @@ Use a stack when the most recently added value must be processed first, such as 
 ## Queues
 
 Use a queue when values must be processed in arrival order, especially in breadth-first search and level-order traversal.
+
+## Recursion
+
+Define a clear base case first, then ensure every recursive call moves the problem closer to that base case.
