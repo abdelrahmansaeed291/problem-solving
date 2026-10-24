@@ -95,3 +95,7 @@ Use dummy nodes to simplify operations near the head and avoid separate logic fo
 ## Breadth-First Search
 
 Use breadth-first search with a queue when you need shortest paths in an unweighted graph or level-by-level traversal.
+
+## Depth-First Search
+
+Use depth-first search when exploring complete paths, connected components, or recursive tree structures.
