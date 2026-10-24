@@ -87,3 +87,7 @@ Use a queue when values must be processed in arrival order, especially in breadt
 ## Recursion
 
 Define a clear base case first, then ensure every recursive call moves the problem closer to that base case.
+
+## Linked Lists
+
+Use dummy nodes to simplify operations near the head and avoid separate logic for empty lists or first-node changes.
