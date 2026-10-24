@@ -91,3 +91,7 @@ Define a clear base case first, then ensure every recursive call moves the probl
 ## Linked Lists
 
 Use dummy nodes to simplify operations near the head and avoid separate logic for empty lists or first-node changes.
+
+## Breadth-First Search
+
+Use breadth-first search with a queue when you need shortest paths in an unweighted graph or level-by-level traversal.
