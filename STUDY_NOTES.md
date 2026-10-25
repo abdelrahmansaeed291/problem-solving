@@ -103,3 +103,7 @@ Use depth-first search when exploring complete paths, connected components, or r
 ## Heaps
 
 Use a heap when the algorithm repeatedly needs the smallest or largest available value without sorting everything again.
+
+## Intervals
+
+Sort intervals by their start value before merging overlaps or checking whether schedules conflict.
