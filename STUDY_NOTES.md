@@ -107,3 +107,7 @@ Use a heap when the algorithm repeatedly needs the smallest or largest available
 ## Intervals
 
 Sort intervals by their start value before merging overlaps or checking whether schedules conflict.
+
+## Backtracking
+
+Choose an option, explore it, and undo the choice before trying the next option; prune branches that cannot produce a valid result.
