@@ -99,3 +99,7 @@ Use breadth-first search with a queue when you need shortest paths in an unweigh
 ## Depth-First Search
 
 Use depth-first search when exploring complete paths, connected components, or recursive tree structures.
+
+## Heaps
+
+Use a heap when the algorithm repeatedly needs the smallest or largest available value without sorting everything again.
