@@ -123,3 +123,7 @@ Use union-find to track connected components efficiently, with path compression 
 ## Tries
 
 Use a trie when many string operations depend on shared prefixes, such as autocomplete or dictionary searches.
+
+## Monotonic Stacks
+
+Maintain an increasing or decreasing stack when finding the next greater, next smaller, or nearest qualifying value.
