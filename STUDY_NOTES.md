@@ -119,3 +119,7 @@ Define the state, transition, and base cases before coding; then decide whether 
 ## Union-Find
 
 Use union-find to track connected components efficiently, with path compression and union by rank or size.
+
+## Tries
+
+Use a trie when many string operations depend on shared prefixes, such as autocomplete or dictionary searches.
