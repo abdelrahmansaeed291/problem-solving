@@ -111,3 +111,7 @@ Sort intervals by their start value before merging overlaps or checking whether 
 ## Backtracking
 
 Choose an option, explore it, and undo the choice before trying the next option; prune branches that cannot produce a valid result.
+
+## Dynamic Programming
+
+Define the state, transition, and base cases before coding; then decide whether memoization or tabulation is clearer.
