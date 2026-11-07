@@ -127,3 +127,7 @@ Use a trie when many string operations depend on shared prefixes, such as autoco
 ## Monotonic Stacks
 
 Maintain an increasing or decreasing stack when finding the next greater, next smaller, or nearest qualifying value.
+
+## Bit Manipulation
+
+Use bit masks for compact state tracking, and remember that XOR cancels pairs because `x ^ x` equals zero.
