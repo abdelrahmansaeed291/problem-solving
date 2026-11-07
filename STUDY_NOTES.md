@@ -115,3 +115,7 @@ Choose an option, explore it, and undo the choice before trying the next option;
 ## Dynamic Programming
 
 Define the state, transition, and base cases before coding; then decide whether memoization or tabulation is clearer.
+
+## Union-Find
+
+Use union-find to track connected components efficiently, with path compression and union by rank or size.
