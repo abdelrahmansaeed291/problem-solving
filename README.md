@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems.
 
-Current progress: **6 solved problems**. See [Study Notes](./STUDY_NOTES.md) for reusable problem-solving patterns.
+Current progress: **7 solved problems**. See [Study Notes](./STUDY_NOTES.md) for reusable problem-solving patterns.
 
 ## File naming
 
@@ -27,6 +27,7 @@ Each file should include:
 | --- | --- | --- | --- |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Python | [Solution](./longest-substring-without-repeating-characters.py) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python | [Solution](./container-with-most-water.py) |
+| [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Java | [Solution](./JumpGameII.java) |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Python | [Solution](./reverse-words-in-a-string.py) |
 | [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | Python | [Solution](./maximum-number-of-vowels-in-a-substring-of-given-length.py) |
 | [1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | Medium | Python | [Solution](./max-number-of-k-sum-pairs.py) |
