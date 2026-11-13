@@ -8,6 +8,7 @@ node_modules/
 
 # Java
 *.class
+java_proplems/
 
 # C / C++
 *.o
