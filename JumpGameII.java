@@ -46,6 +46,7 @@ public class JumpGameII {
         JumpGameII solution = new JumpGameII();
 
         int[][] inputs = {
+            {},
             {2, 3, 1, 1, 4},
             {2, 3, 0, 1, 4},
             {1},
@@ -53,7 +54,7 @@ public class JumpGameII {
             {1, 1, 1, 1}
         };
 
-        int[] expected = {2, 2, 0, 1, 3};
+        int[] expected = {0, 2, 2, 0, 1, 3};
 
         for (int i = 0; i < inputs.length; i++) {
             int actual = solution.jump(inputs[i]);
