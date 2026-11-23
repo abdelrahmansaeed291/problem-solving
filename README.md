@@ -2,7 +2,7 @@
 
 This repository contains my solutions to LeetCode problems.
 
-Current progress: **8 solved problems**. See [Study Notes](./STUDY_NOTES.md) for reusable problem-solving patterns.
+Current progress: **9 solved problems**. See [Study Notes](./STUDY_NOTES.md) for reusable problem-solving patterns.
 
 ## File naming
 
@@ -26,6 +26,7 @@ Each file should include:
 | Problem | Difficulty | Language | Solution |
 | --- | --- | --- | --- |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Python | [Solution](./longest-substring-without-repeating-characters.py) |
+| [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | Medium | Java | [Solution](./ZigzagConversion.java) |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Python | [Solution](./container-with-most-water.py) |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Java | [Solution](./JumpGameII.java) |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | Python | [Solution](./merge-intervals.py) |
