@@ -131,3 +131,7 @@ Maintain an increasing or decreasing stack when finding the next greater, next s
 ## Bit Manipulation
 
 Use bit masks for compact state tracking, and remember that XOR cancels pairs because `x ^ x` equals zero.
+
+## Direction Changes
+
+For Zigzag Conversion, move through the rows with a direction value of `1` or `-1`, reversing it at the first and last row.
