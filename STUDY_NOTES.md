@@ -135,3 +135,7 @@ Use bit masks for compact state tracking, and remember that XOR cancels pairs be
 ## Direction Changes
 
 For Zigzag Conversion, move through the rows with a direction value of `1` or `-1`, reversing it at the first and last row.
+
+## Greedy Feasibility
+
+Before selecting a greedy starting point, verify that the total available resources are enough to complete the full task.
