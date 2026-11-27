@@ -139,3 +139,7 @@ For Zigzag Conversion, move through the rows with a direction value of `1` or `-
 ## Greedy Feasibility
 
 Before selecting a greedy starting point, verify that the total available resources are enough to complete the full task.
+
+## Bucket Counting
+
+When values above a limit are equivalent, group them into a final bucket to avoid sorting and keep the scan linear.
