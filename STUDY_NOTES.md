@@ -143,3 +143,7 @@ Before selecting a greedy starting point, verify that the total available resour
 ## Bucket Counting
 
 When values above a limit are equivalent, group them into a final bucket to avoid sorting and keep the scan linear.
+
+## Circular Indexing
+
+Use `(start + step) % length` to visit every position in a circular array without duplicating the input.
