@@ -147,3 +147,7 @@ When values above a limit are equivalent, group them into a final bucket to avoi
 ## Circular Indexing
 
 Use `(start + step) % length` to visit every position in a circular array without duplicating the input.
+
+## Input Boundaries
+
+Handle empty and one-element inputs before the main algorithm when they require a simple immediate result.
